@@ -1,0 +1,41 @@
+#include <iostream>
+#include <string>
+
+void foo(){
+    int x = 3;
+    cout << x + 5;
+}
+
+class areaClass {
+private:
+    int ter;
+public:
+    areaClass() {
+        ter = 8;
+    }
+}
+
+int main(){
+    int ib = 2;
+    ib = 2;
+    foo();
+    foo();
+    int ic = 3;
+    string bg;
+    string bf;
+    bf = "afasf";
+    bf = "1kljhkal"
+    ic = 3;
+    ic = 3;
+    int id = 4;
+    id = 4;
+    id = 4;
+    id = 4;
+    int ir = 5;
+    for (int i = 0; i < ir; i++){
+        cout << i << "+" << i << "-" << i + i;
+    }
+    string sc = "thirdstring";
+    sc = "33";
+    return 0;
+}
